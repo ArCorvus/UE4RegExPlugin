@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Regular Expression",
+	"Description": "Regular Expression. ECMAScript syntax",
+	"Category": "Runtime",
+	"CreatedBy": "2Scars Games",
+	"CreatedByURL": "http://2scarsgames.com",
+	"DocsURL": "http://www.cplusplus.com/reference/regex/ECMAScript",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "RegEx",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false
+}
