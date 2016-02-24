@@ -1,3 +1,5 @@
+// Copyright 2014-2016 2Scars Games, Inc. All Rights Reserved.
+
 #include "RegExPrivatePCH.h"
 #include "RegExFunctionLibrary.h"
 #include <regex>

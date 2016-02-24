@@ -1,4 +1,5 @@
-// Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
+// Copyright 2014-2016 2Scars Games, Inc. All Rights Reserved.
+
 #pragma once 
 #include "Engine.h"
 #include "IRegExModule.h"

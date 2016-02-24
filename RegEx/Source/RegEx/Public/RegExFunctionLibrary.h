@@ -1,4 +1,4 @@
-// Copyright 2014-2016 2Scars Games. All Rights Reserved.
+// Copyright 2014-2016 2Scars Games, Inc. All Rights Reserved.
 
 #pragma once
 
